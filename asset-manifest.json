@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yulithalta/rpm-face-tracking.git/static/css/main.04247f54.css",
+    "main.js": "/yulithalta/rpm-face-tracking.git/static/js/main.7cfacda8.js",
+    "static/js/787.55a59ffc.chunk.js": "/yulithalta/rpm-face-tracking.git/static/js/787.55a59ffc.chunk.js",
+    "index.html": "/yulithalta/rpm-face-tracking.git/index.html",
+    "main.04247f54.css.map": "/yulithalta/rpm-face-tracking.git/static/css/main.04247f54.css.map",
+    "main.7cfacda8.js.map": "/yulithalta/rpm-face-tracking.git/static/js/main.7cfacda8.js.map",
+    "787.55a59ffc.chunk.js.map": "/yulithalta/rpm-face-tracking.git/static/js/787.55a59ffc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04247f54.css",
+    "static/js/main.7cfacda8.js"
+  ]
+}
